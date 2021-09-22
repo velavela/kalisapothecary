@@ -1,0 +1,64 @@
+/* GLOBAL STYLES */
+html, body {
+  margin: 0;
+  padding: 0;
+  /* font-family: 'Hina Mincho', serif;
+
+  font-family: 'Montserrat', sans-serif;
+*/
+}
+
+h1 {
+  color: #FF2442;
+  font-family: 'Montserrat', sans-serif;
+  /* font-size: 5.5vw; */
+}
+
+h2 {
+  color: #fff;
+  /* font-size: 2.5vw; */
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+  color: #fff;
+  font-size: 20px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+p {
+  font-family: 'Hina Mincho', serif;
+  /* font-size: 2vw;
+  color: pink; */
+}
+
+/* HERO STYLES */
+.hero {
+  width: 100vw;
+  height: 100vh;
+  padding: .5vh 0;
+  /* Flexbox */
+  display: flex;
+  justify-content: center;
+  align-items: top;
+  /* Text styles*/
+  text-align: center;
+  /* Background styles */
+  background-image: url(images/main.jpg);
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+
+.main-title {
+  font-size: 4.5vw;
+}
+
+
+.subtitle {
+  padding-top: 14%;
+  font-size: 2vw;
+
+}
