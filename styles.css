@@ -53,8 +53,8 @@ p {
 
 
 .main-title {
-  /* font-size: 4.5vw; */
-  font-size: 5em;
+  font-size: 4.5vw;
+  /* font-size: 5em; */
 }
 
 
@@ -63,7 +63,7 @@ p {
   font-size: 2vw;
 
 }
-
+/*
 @media (max-width: 600px) {
 
 
@@ -75,4 +75,4 @@ p {
   h2 {
       padding-top: 80%;
   }
-}
+} */
